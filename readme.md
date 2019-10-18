@@ -1,6 +1,6 @@
 # Sticky nav
 
-Dans le cadre de cet exercice, nous vous demandons d'appliquer une position `fixed` à une navigation, quand celle-ci arrive au bord supérieur de la fenêtre. Donc juste avant qu'elle ne disparaisse. ⚠ Il n'est pas recommandé de résoudre à l'aide de JavaScript des problèmes spécifiques au style tout particulièrement s’ils peuvent être résolus nativement à l'aide de CSS. Cf. [Types de positionnements](https://developer.mozilla.org/fr/docs/Web/CSS/position)
+Dans le cadre de cet exercice, nous vous demandons d'appliquer une position `fixed` à une navigation, quand celle-ci arrive au bord supérieur de la fenêtre. Donc juste avant qu'elle ne disparaisse. ⚠️ Il n'est pas recommandé de résoudre à l'aide de JavaScript des problèmes spécifiques au style tout particulièrement s’ils peuvent être résolus nativement à l'aide de CSS. Cf. [Types de positionnements](https://developer.mozilla.org/fr/docs/Web/CSS/position)
 
 ![Résultat souhaité](./readme.gif)
 
