@@ -1,5 +1,17 @@
 # Sticky nav
+> JS exercise given at HEPL
 
+* * *
+
+**Sticky nav** is an educational project, which will be used for `JS` courses.
+
+**Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
+
+* * *
+
+> Lors de vos cours de *web*, vous allez découvrir le langage *JavaScript* et le mettre en pratique pour apprendre à rendre vos pages web interactives.  
+
+* * *
 Dans le cadre de cet exercice, nous vous demandons d'appliquer une position `fixed` à une navigation, quand celle-ci arrive au bord supérieur de la fenêtre. Donc juste avant qu'elle ne disparaisse. ⚠️ Il n'est pas recommandé de résoudre à l'aide de JavaScript des problèmes spécifiques au style tout particulièrement s’ils peuvent être résolus nativement à l'aide de CSS. Cf. [Types de positionnements](https://developer.mozilla.org/fr/docs/Web/CSS/position)
 
 ![Résultat souhaité](./readme.gif)
